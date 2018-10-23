@@ -1,28 +1,30 @@
-# electroncrawler
+# electronadmin
 
-> An electron-vue project
+> Electron admin app
 
-#### Build Setup
+## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+# install dependencies with Yarn (yarnpkg.com) 
+yarn
 
 # serve with hot reload at localhost:9080
 npm run dev
 
-# build electron application for production
+# build electron app for production
 npm run build
 
-# run unit & end-to-end tests
-npm test
-
-
-# lint all JS/Vue component files in `src/`
+# lint all JS/Vue component files in `app/src`
 npm run lint
 
+# run webpack in production
+npm run pack
+
+# regenerate Element component styles in theme/ from element-variables.css
+npm run theme
 ```
+More information can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/docs/npm_scripts.html).
 
 ---
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+This project was generated from [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about this project can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
