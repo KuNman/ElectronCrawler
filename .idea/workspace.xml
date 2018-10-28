@@ -2,229 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9aaffd1-bbec-4d37-b916-9c175f18f8b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/dev-client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/dev-runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/icons/256x256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/icons/icon.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/icons/icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/electron/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Electron Framework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Libraries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libnode.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/content_shell.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/natives_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pdf_viewer_resources.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/snapshot_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/Current" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper EH.app/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper EH.app/Contents/MacOS/Electron Helper EH" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper EH.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper NP.app/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper NP.app/Contents/MacOS/Electron Helper NP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper NP.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/Electron Helper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Electron Helper.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Mantle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Modules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLJSONAdapter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLManagedObjectAdapter.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel+NSCoding.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLValueTransformer.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/Mantle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSArray+MTLManipulationAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSDictionary+MTLManipulationAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSObject+MTLComparisonAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLInversionAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLPredefinedTransformerAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Modules/module.modulemap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Mantle.framework/Versions/Current" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Modules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/ReactiveCocoa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTKeyPathCoding.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTScope.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSArray+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACCommandSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACTextSignalSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSData+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSDictionary+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSEnumerator+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSFileHandle+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSIndexSet+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSNotificationCenter+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACAppKitBindings.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACDeallocating.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACLifting.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACPropertySubscribing.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACSelectorSignal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSOrderedSet+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSSet+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSequenceAdditions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSText+RACSignalSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSURLConnection+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSUserDefaults+RACSupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBacktrace.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBehaviorSubject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACChannel.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCommand.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCompoundDisposable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACDisposable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACEvent.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACGroupedSignal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACKVOChannel.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACMulticastConnection.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler+Subclass.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACReplaySubject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler+Subclass.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScopedDisposable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSequence.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSerialDisposable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal+Operations.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACStream.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriber.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriptingAssignmentTrampoline.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTargetQueueScheduler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTestScheduler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTuple.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACUnit.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/ReactiveCocoa.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/metamacros.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Modules/module.modulemap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Resources/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Modules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Squirrel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSBundle+SQRLVersionExtensions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSProcessInfo+SQRLVersionExtensions.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLDownloadedUpdate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdater.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/Squirrel.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Modules/module.modulemap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Frameworks/Squirrel.framework/Versions/Current" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/MacOS/Electron" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Resources/app.asar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Resources/electron.asar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/Electron.app/Contents/Resources/electron.icns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mac/LICENSES.chromium.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/web/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/store/modules/Counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/store/modules/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/e2e/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/e2e/specs/Launch.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/e2e/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unit/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unit/specs/LandingPage.spec.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/renderer/components/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/renderer/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/renderer/routes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,6 +15,7 @@
     <session id="1564035426">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -243,20 +23,20 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ejs" value="1" />
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="4" />
           <entry key="html" value="1" />
-          <entry key="js" value="33" />
+          <entry key="js" value="35" />
           <entry key="json" value="9" />
-          <entry key="vue" value="14" />
+          <entry key="vue" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="33" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Vue.js" value="14" />
+          <entry key="JavaScript" value="35" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Vue.js" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -267,16 +47,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="JavaScript Console" value="31" />
-          <entry key="js" value="103" />
+          <entry key="js" value="107" />
           <entry key="json" value="78" />
-          <entry key="vue" value="39" />
+          <entry key="vue" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="78" />
-          <entry key="JavaScript" value="134" />
-          <entry key="Vue.js" value="39" />
+          <entry key="JavaScript" value="138" />
+          <entry key="Vue.js" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.command.options" />
@@ -290,61 +70,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/renderer/App.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/Versions.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/Links.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/CurrentPage.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/renderer/routes.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tasks/runner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-509" />
+            <state relative-caret-position="-145">
+              <folding>
+                <element signature="e#223#279#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/CurrentPage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+        <entry file="file://$PROJECT_DIR$/app/src/renderer/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/app/src/renderer/components/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/renderer/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/renderer/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -361,6 +139,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>loaders</find>
+      <find>router-view</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -381,6 +160,9 @@
         <option value="$PROJECT_DIR$/.eslintrc.js" />
         <option value="$PROJECT_DIR$/src/renderer/components/Main.vue" />
         <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/app/src/renderer/components/LandingPageView/CurrentPage.vue" />
+        <option value="$PROJECT_DIR$/app/src/renderer/routes.js" />
+        <option value="$PROJECT_DIR$/app/src/renderer/components/App.vue" />
       </list>
     </option>
   </component>
@@ -440,6 +222,31 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElectronCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElectronCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElectronCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElectronCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="LandingPageView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElectronCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElectronCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="vuex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ElectronCrawler" type="b2602c69:ProjectViewProjectNode" />
@@ -563,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6918000" />
+    <option name="totallyTimeSpent" value="7337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="0" />
@@ -576,7 +383,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41756758" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4027027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4027027" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -640,9 +447,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vue-router/dist/vue-router.js" />
     <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/store/modules/Counter.js">
@@ -744,28 +548,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/renderer/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView.vue">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/Links.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/Versions.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/Links.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView/CurrentPage.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/renderer/routes.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tasks/runner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-509" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -777,10 +588,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/components/LandingPageView.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        <state relative-caret-position="-145">
+          <folding>
+            <element signature="e#223#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/vuex/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/renderer/components/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
